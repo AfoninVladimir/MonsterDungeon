@@ -1,0 +1,430 @@
+{
+    "Weapon": {
+            "Wooden Sword": {
+                "icon": "url(./images/icons/items/Wooden Sword.png)",
+                "name": "Деревянный Меч",
+                "type": "Полуторный меч",
+                "requirement": {
+                    "number1": { 
+                    "name": "Сила",
+                        "value": 1},
+                    "number2": { 
+                    "name": "Ловкость",
+                        "value": 1}
+                },
+                "indicator":{
+                    "name": "Урон",
+                    "value": 1
+                },
+                "bonus": "No",
+                "description" : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolor repudiandae rerum, soluta voluptatum quidem consequatur nobis beatae, voluptas eius obcaecati laboriosam saepe minima a vel incidunt eveniet sapiente non. Qui.",
+                "weight": 0.7
+            }, 
+            "Iron Sword": {
+            "icon": "url(./images/icons/items/Iron Sword.png)",
+            "name": "Железный Меч",
+            "type": "Полуторный меч",
+            "requirement": {
+                "number_1": { 
+                    "name": "Сила",
+                    "value": 10},
+                "number_2": { 
+                    "name": "Ловкость",
+                    "value": 5}
+            },
+            "indicator":{
+                "name": "Урон",
+                "value": 2.3
+            },
+            "bonus": "No",
+            "description" : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolor repudiandae rerum, soluta voluptatum quidem consequatur nobis beatae, voluptas eius obcaecati laboriosam saepe minima a vel incidunt eveniet sapiente non. Qui.",
+            "weight": 1
+                },
+            "Knight's Sword": {
+                "icon": "url(./images/icons/items/Knight's Sword.png)",
+                "name": "Рыцарский Меч",
+                "type": "Полуторный меч",
+                "requirement": {
+                    "number_1": { 
+                        "name": "Сила",
+                        "value": 50
+                    },
+                    "number_2": { 
+                        "name": "Ловкость",
+                        "value": 35
+                    },
+                    "number_3": { 
+                        "name": "Фехтование",
+                        "value": 30
+                    }
+                    },
+                "indicator":{
+                    "name": "Урон",
+                    "value": 15
+                },
+                "bonus": {
+                    "number_1": {
+                        "name": "Сила",
+                        "value": 20
+                    },
+                    "number_2": {
+                        "name": "Ловкость",
+                        "value": 15
+                    }
+                },
+                "description" : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolor repudiandae rerum, soluta voluptatum quidem consequatur nobis beatae, voluptas eius obcaecati laboriosam saepe minima a vel incidunt eveniet sapiente non. Qui.",
+                "weight": 2
+                },
+            "Rapier": {
+                "icon": "url(./images/icons/items/Rapier.png)",
+                "name": "Рапира",
+                "type": "Рапира",
+                "requirement": {
+                    "number_1": { 
+                        "name": "Сила",
+                        "value": 10
+                    },
+                    "number_2": { 
+                        "name": "Ловкость",
+                        "value": 25
+                    },
+                    "number_3": { 
+                        "name": "Фехтование",
+                        "value": 10
+                    }
+                    },
+                "indicator":{
+                    "name": "Урон",
+                    "value": 4.7
+                },
+                "bonus": {
+                    "number_1": {
+                        "name": "Ловкость",
+                        "value": 20
+                    }
+                },
+                "description" : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolor repudiandae rerum, soluta voluptatum quidem consequatur nobis beatae, voluptas eius obcaecati laboriosam saepe minima a vel incidunt eveniet sapiente non. Qui.",
+                "weight": 0.8
+                },
+            "Gladius": {
+                "icon": "url(./images/icons/items/Gladius.png)",
+                "name": "Гладиус",
+                "type": "Короткий меч",
+                "requirement": {
+                    "number_1": { 
+                        "name": "Сила",
+                        "value": 15
+                    },
+                    "number_2": { 
+                        "name": "Ловкость",
+                        "value": 10
+                    },
+                    "number_3": { 
+                        "name": "Фехтование",
+                        "value": 15
+                    }
+                    },
+                "indicator":{
+                    "name": "Урон",
+                    "value": 6.3
+                },
+                "bonus": {
+                    "number_1": {
+                        "name": "Сила",
+                        "value": 15
+                    }
+                },
+                "description" : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolor repudiandae rerum, soluta voluptatum quidem consequatur nobis beatae, voluptas eius obcaecati laboriosam saepe minima a vel incidunt eveniet sapiente non. Qui.",
+                "weight": 1
+                },
+            "Saber": {
+                "icon": "url(./images/icons/items/Saber.png)",
+                "name": "Сабля",
+                "type": "Полуторный меч",
+                "requirement": {
+                    "number_1": { 
+                        "name": "Сила",
+                        "value": 10
+                    },
+                    "number_2": { 
+                        "name": "Ловкость",
+                        "value": 20
+                    },
+                    "number_3": { 
+                        "name": "Фехтование",
+                        "value": 10
+                    }
+                    },
+                "indicator":{
+                    "name": "Урон",
+                    "value": 5.2
+                },
+                "bonus": "No",
+                "description" : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolor repudiandae rerum, soluta voluptatum quidem consequatur nobis beatae, voluptas eius obcaecati laboriosam saepe minima a vel incidunt eveniet sapiente non. Qui.",
+                "weight": 1
+                },
+            "Intrepel": {
+            "icon": "url(./images/icons/items/Intrepel.png)",
+            "name": "Интрепель",
+            "type": "Боевой Топор",
+            "requirement": {
+                "number_1": { 
+                    "name": "Сила",
+                    "value": 30
+                },
+                "number_2": { 
+                    "name": "Фехтование",
+                    "value": 5
+                }
+                },
+            "indicator":{
+                "name": "Урон",
+                "value": 4.2
+            },
+            "bonus": {
+                "number_1": {
+                    "name": "Сила",
+                    "value": 20
+                }
+            },
+            "description" : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolor repudiandae rerum, soluta voluptatum quidem consequatur nobis beatae, voluptas eius obcaecati laboriosam saepe minima a vel incidunt eveniet sapiente non. Qui.",
+            "weight": 2
+                },
+            "Double-Sided Battle Axe": {
+            "icon": "url(./images/icons/items/Double-Sided Battle Axe.png)",
+            "name": "Интрепель",
+            "type": "Боевой Топор",
+            "requirement": {
+                "number_1": { 
+                    "name": "Сила",
+                    "value": 50
+                },
+                "number_2": { 
+                    "name": "Фехтование",
+                    "value": 10
+                }
+                },
+            "indicator":{
+                "name": "Урон",
+                "value": 7.7
+            },
+            "bonus": {
+                "number_1": {
+                    "name": "Сила",
+                    "value": 25
+                },
+                "number_2": { 
+                    "name": "Фехтование",
+                    "value": 10
+                }
+            },
+            "description" : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolor repudiandae rerum, soluta voluptatum quidem consequatur nobis beatae, voluptas eius obcaecati laboriosam saepe minima a vel incidunt eveniet sapiente non. Qui.",
+            "weight": 3
+                },
+            "Mace": {
+            "icon": "url(./images/icons/items/Mace.png)",
+            "name": "Булава",
+            "type": "Булава",
+            "requirement": {
+                "number_1": { 
+                    "name": "Сила",
+                    "value": 35
+                }
+                },
+            "indicator":{
+                "name": "Урон",
+                "value": 5.9
+            },
+            "bonus": {
+                "number_1": {
+                    "name": "Сила",
+                    "value": 20
+                }
+            },
+            "description" : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolor repudiandae rerum, soluta voluptatum quidem consequatur nobis beatae, voluptas eius obcaecati laboriosam saepe minima a vel incidunt eveniet sapiente non. Qui.",
+            "weight": 3.5
+                },
+            "Club with spikes": {
+            "icon": "url(./images/icons/items/Club with spikes.png)",
+            "name": "Дубина с шипами",
+            "type": "Булава",
+            "requirement": {
+                "number_1": { 
+                    "name": "Сила",
+                    "value": 5
+                }
+                },
+            "indicator":{
+                "name": "Урон",
+                "value": 1.7
+            },
+            "bonus": "No",
+            "description" : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolor repudiandae rerum, soluta voluptatum quidem consequatur nobis beatae, voluptas eius obcaecati laboriosam saepe minima a vel incidunt eveniet sapiente non. Qui.",
+            "weight": 1.5
+                }
+    },
+    "Shields": {
+            "Wooden Round Shield": {
+                "icon": "url(./images/icons/items/Wooden Round Shield.png)",
+                "name": "Деревянный круглый Щит",
+                "type": "Щит",
+                "requirement": {
+                    "number_1": { 
+                        "name": "Сила",
+                        "value": 5
+                    }
+                    },
+                "indicator":{
+                    "name": "Броня",
+                    "value": 10
+                },
+                "bonus": "No",
+                "description" : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolor repudiandae rerum, soluta voluptatum quidem consequatur nobis beatae, voluptas eius obcaecati laboriosam saepe minima a vel incidunt eveniet sapiente non. Qui.",
+                "weight": 1
+            },
+            "Wooden Shield": {
+            "icon": "url(./images/icons/items/Wooden Shield.png)",
+            "name": "Деревянный Щит",
+            "type": "Щит",
+            "requirement": {
+                "number_1": { 
+                    "name": "Сила",
+                    "value": 20
+                }
+                },
+            "indicator":{
+                "name": "Броня",
+                "value": 25
+            },
+            "bonus": "No",
+            "description" : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolor repudiandae rerum, soluta voluptatum quidem consequatur nobis beatae, voluptas eius obcaecati laboriosam saepe minima a vel incidunt eveniet sapiente non. Qui.",
+            "weight": 1
+                },
+            "Knight's Shield": {
+            "icon": "url(./images/icons/items/Knight's Shield.png)",
+            "name": "Рыцарский Щит",
+            "type": "Щит",
+            "requirement": {
+                "number_1": { 
+                    "name": "Сила",
+                    "value": 40
+                }
+                },
+            "indicator":{
+                "name": "Броня",
+                "value": 50
+            },
+            "bonus": "No",
+            "description" : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolor repudiandae rerum, soluta voluptatum quidem consequatur nobis beatae, voluptas eius obcaecati laboriosam saepe minima a vel incidunt eveniet sapiente non. Qui.",
+            "weight": 2
+                }
+    },
+    "Armor": {
+            "Tanned Leather Helmet": {
+                "icon": "url(./images/icons/items/Tanned Leather Helmet.png)",
+                "name": "Шлем из дублёной кожи",
+                "type": "Шлем",
+                "requirement": "No",
+                "indicator":{
+                    "name": "Броня",
+                    "value": 5
+                },
+                "bonus": "No",
+                "description" : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolor repudiandae rerum, soluta voluptatum quidem consequatur nobis beatae, voluptas eius obcaecati laboriosam saepe minima a vel incidunt eveniet sapiente non. Qui.",
+                "weight": 0.8
+                },
+            "Iron Helmet": {
+            "icon": "url(./images/icons/items/Iron Helmet.png)",
+            "name": "Железный Шлем",
+            "type": "Шлем",
+            "requirement": "No",
+            "indicator":{
+                "name": "Броня",
+                "value": 15
+            },
+            "bonus": "No",
+            "description" : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolor repudiandae rerum, soluta voluptatum quidem consequatur nobis beatae, voluptas eius obcaecati laboriosam saepe minima a vel incidunt eveniet sapiente non. Qui.",
+            "weight": 1.5
+                },
+            "Knight's Helmet": {
+            "icon": "url(./images/icons/items/Knight's Helmet.png)",
+            "name": "Рыцарский Шлем",
+            "type": "Шлем",
+            "requirement": "No",
+            "indicator":{
+                "name": "Броня",
+                "value": 30
+            },
+            "bonus": "No",
+            "description" : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolor repudiandae rerum, soluta voluptatum quidem consequatur nobis beatae, voluptas eius obcaecati laboriosam saepe minima a vel incidunt eveniet sapiente non. Qui.",
+            "weight": 2
+                },
+            "Tanned Leather Armor": {
+            "icon": "url(./images/icons/items/Tanned Leather Armor.png)",
+            "name": "Доспех из дублёной кожи",
+            "type": "Доспех",
+            "requirement": "No",
+            "indicator":{
+                "name": "Броня",
+                "value": 15
+            },
+            "bonus": "No",
+            "description" : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolor repudiandae rerum, soluta voluptatum quidem consequatur nobis beatae, voluptas eius obcaecati laboriosam saepe minima a vel incidunt eveniet sapiente non. Qui.",
+            "weight": 2.4
+                },
+            "Iron Armor": {
+            "icon": "url(./images/icons/items/Iron Armor.png)",
+            "name": "Железный Доспех",
+            "type": "Доспех",
+            "requirement": {
+                "number_1": { 
+                    "name": "Выносливость",
+                    "value": 10
+                }
+            },
+            "indicator":{
+                "name": "Броня",
+                "value": 35
+            },
+            "bonus": "No",
+            "description" : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolor repudiandae rerum, soluta voluptatum quidem consequatur nobis beatae, voluptas eius obcaecati laboriosam saepe minima a vel incidunt eveniet sapiente non. Qui.",
+            "weight": 4.5
+                },
+            "Knight's Armor": {
+            "icon": "url(./images/icons/items/Knight's Armor.png)",
+            "name": "Рыцарский Доспех",
+            "type": "Доспех",
+            "requirement": {
+                "number_1": { 
+                    "name": "Выносливость",
+                    "value": 25
+                }
+            },
+            "indicator":{
+                "name": "Броня",
+                "value": 60
+            },
+            "bonus": "No",
+            "description" : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolor repudiandae rerum, soluta voluptatum quidem consequatur nobis beatae, voluptas eius obcaecati laboriosam saepe minima a vel incidunt eveniet sapiente non. Qui.",
+            "weight": 6.3
+                },
+            "Ring": {
+            "name": "Кольцо",
+            "bonus": {
+                "number_1":{
+                    "name": "",
+                    "value": ""
+                }
+            }
+            },
+            "Ring with Stone": {
+            "name": "Кольцо с Камнем",
+            "bonus": {
+                "number_1":{
+                    "name": "",
+                    "value": ""
+                }
+            }
+            }
+    }
+}

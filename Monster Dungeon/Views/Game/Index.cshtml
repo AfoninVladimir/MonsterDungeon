@@ -1,0 +1,54 @@
+﻿@model Entity.SearchOut.SearchOutGame
+@{
+    ViewData["Title"] = "Index Game";
+}
+
+<script>
+</script>
+<style>
+    body {
+        color: white;
+    }
+
+    th, td {
+        border-collapse: collapse;
+        border: 1px solid #fff;
+        height: 40px;
+        text-align: center;
+    }
+
+    .BlokTableGames {
+        max-height: 818px;
+        overflow: auto;
+    }
+
+</style>
+<body>
+    <div class="BlokTableGames">
+        <table class="TableGames">
+            <thead style="border: none;">
+                <tr>
+                    <th colspan="3"><h1>Список Игр</h1></th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <th width="40px">ID</th>
+                    <th width="200px">Host Game</th>
+                    <th width="100px">Action</th>
+                </tr>
+                @foreach (var game in Model.Games)
+                {
+                    <tr>
+                        <td>@game.GameId</td>
+                        <td>@BL.UserBL.Get((int)game.Host).Login</td>
+                        <td>
+                            <a asp-area="" asp-controller="Game" asp-action="Join" asp-route-gameId="@game.GameId">Join</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+    
+</body>

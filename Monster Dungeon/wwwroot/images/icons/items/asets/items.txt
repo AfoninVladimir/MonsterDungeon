@@ -1,0 +1,52 @@
+Деревянный Меч 			- Wooden Sword
+Железный Меч 			- Iron Sword
+Рыцарский Меч 			- Knight's Sword
+Рапира 				- Rapier
+Гладиус 			- Gladius
+Сабля 				- Saber
+Интрепель 			- Intrepel
+Двусторонний Боевой Топор 	- Double-Sided Battle Axe
+Булава 				- Mace
+Дубина с шипами 		- Сlub with spikes
+
+Деревянный круглый Щит 		- Wooden Round Shield
+Деревянный Щит 			- Wooden Shield
+Рыцарский Щит 			- Knight's Shield
+
+Шлем из дублёной кожи 		- Tanned Leather Helmet 
+Железный Шлем 			- Iron Helmet
+Рыцарский Шлем 			- Knight's Helmet
+
+Доспех из дублёной кожи 	- Tanned Leather Armor
+Железный Доспех 		- Iron Armor
+Рыцарский Доспех 		- Knight's Armor
+
+Кольцо 				- Ring
+Кольцо с Камнем 		- Ring with Stone
+Ожерелье из зубов 		- Necklace of teeth
+Золотое ожерелье 		- Gold Necklace
+Походная Сумка 			- Hiking Bag
+Рюкзак Авантюриста 		- Adventurer's Backpack
+
+
+О:
+Малое Зелье Здоровья 		- Small Health Potion
+Малое Зелье Брони 		- Small Armor Potion
+Малое Зелье Выносливость 	- Small Stamina Potion
+Малое Зелье Силы 		- Small Power Potion
+П:
+Большое Зелье Здоровья 		- Big Health Potion
+Большое Зелье Брони 		- Big Armor Potion
+Большое Зелье Выносливость 	- Big Endurance Potion
+Большое Зелье Силы 		- Big Power Potion
+А:
+Зелье Здоровья 			- Health Potion
+Зелье Брони 			- Armor Potion
+Зелье Выносливость 		- Endurance Potion
+Зелье Силы 			- Power Potion
+
+Ядро слизня 			- Slime Сore
+
+Драгоценные камни
+Горстка драгоценных камней	- Handful of precious stones
+Кристалл			- Crystal

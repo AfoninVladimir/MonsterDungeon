@@ -1,0 +1,1729 @@
+{
+  "Files": [
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Monster Dungeon.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Monster Dungeon.bundle.scp.css"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\css\\MonsterDungeon.css",
+      "PackagePath": "staticwebassets\\css\\MonsterDungeon.css"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\css\\registration.css",
+      "PackagePath": "staticwebassets\\css\\registration.css"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\fonts\\Pixeleum48\\COPYRIGHT.txt",
+      "PackagePath": "staticwebassets\\fonts\\Pixeleum48\\COPYRIGHT.txt"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\fonts\\Pixeleum48\\license.txt",
+      "PackagePath": "staticwebassets\\fonts\\Pixeleum48\\license.txt"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\fonts\\Pixeleum48\\pixeleum-48.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Pixeleum48\\pixeleum-48.ttf"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\fonts\\Pixeleum48\\readme.txt",
+      "PackagePath": "staticwebassets\\fonts\\Pixeleum48\\readme.txt"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\fonts\\Sonic1TitleScreen\\COPYRIGHT.txt",
+      "PackagePath": "staticwebassets\\fonts\\Sonic1TitleScreen\\COPYRIGHT.txt"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\fonts\\Sonic1TitleScreen\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\fonts\\Sonic1TitleScreen\\LICENSE.txt"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\fonts\\Sonic1TitleScreen\\Sonic 1 Title Screen Outline.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Sonic1TitleScreen\\Sonic 1 Title Screen Outline.ttf"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\fonts\\Sonic1TitleScreen\\Sonic1TitleScreenFilled.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Sonic1TitleScreen\\Sonic1TitleScreenFilled.ttf"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Dungeon\\DungeonBG.png",
+      "PackagePath": "staticwebassets\\images\\Dungeon\\DungeonBG.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Dungeon\\DungeonCeiling.png",
+      "PackagePath": "staticwebassets\\images\\Dungeon\\DungeonCeiling.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Dungeon\\DungeonExit.png",
+      "PackagePath": "staticwebassets\\images\\Dungeon\\DungeonExit.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Dungeon\\DungeonGround.png",
+      "PackagePath": "staticwebassets\\images\\Dungeon\\DungeonGround.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Dungeon\\DungeonSclon.png",
+      "PackagePath": "staticwebassets\\images\\Dungeon\\DungeonSclon.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Dungeon\\Platform1.png",
+      "PackagePath": "staticwebassets\\images\\Dungeon\\Platform1.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Dungeon\\Platform2.png",
+      "PackagePath": "staticwebassets\\images\\Dungeon\\Platform2.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Dungeon\\Potalok_naklon.png",
+      "PackagePath": "staticwebassets\\images\\Dungeon\\Potalok_naklon.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Dungeon\\Sten_L.png",
+      "PackagePath": "staticwebassets\\images\\Dungeon\\Sten_L.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Dungeon\\Sten_R.png",
+      "PackagePath": "staticwebassets\\images\\Dungeon\\Sten_R.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Dungeon\\fon1.png",
+      "PackagePath": "staticwebassets\\images\\Dungeon\\fon1.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Dungeon\\fon2.png",
+      "PackagePath": "staticwebassets\\images\\Dungeon\\fon2.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Dungeon\\fon3.png",
+      "PackagePath": "staticwebassets\\images\\Dungeon\\fon3.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Dungeon\\lift.png",
+      "PackagePath": "staticwebassets\\images\\Dungeon\\lift.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\HUD.png",
+      "PackagePath": "staticwebassets\\images\\HUD.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Monsters\\Skeleton\\Files\\Skeleton Attack.ase",
+      "PackagePath": "staticwebassets\\images\\Monsters\\Skeleton\\Files\\Skeleton Attack.ase"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Monsters\\Skeleton\\Files\\Skeleton Dead.ase",
+      "PackagePath": "staticwebassets\\images\\Monsters\\Skeleton\\Files\\Skeleton Dead.ase"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Monsters\\Skeleton\\Files\\Skeleton Hit.ase",
+      "PackagePath": "staticwebassets\\images\\Monsters\\Skeleton\\Files\\Skeleton Hit.ase"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Monsters\\Skeleton\\Files\\Skeleton Idle.ase",
+      "PackagePath": "staticwebassets\\images\\Monsters\\Skeleton\\Files\\Skeleton Idle.ase"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Monsters\\Skeleton\\Files\\Skeleton React.ase",
+      "PackagePath": "staticwebassets\\images\\Monsters\\Skeleton\\Files\\Skeleton React.ase"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Monsters\\Skeleton\\Files\\Skeleton Walk.ase",
+      "PackagePath": "staticwebassets\\images\\Monsters\\Skeleton\\Files\\Skeleton Walk.ase"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Monsters\\Skeleton\\GIFS\\Skeleton Attack.gif",
+      "PackagePath": "staticwebassets\\images\\Monsters\\Skeleton\\GIFS\\Skeleton Attack.gif"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Monsters\\Skeleton\\GIFS\\Skeleton Dead.gif",
+      "PackagePath": "staticwebassets\\images\\Monsters\\Skeleton\\GIFS\\Skeleton Dead.gif"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Monsters\\Skeleton\\GIFS\\Skeleton Hit.gif",
+      "PackagePath": "staticwebassets\\images\\Monsters\\Skeleton\\GIFS\\Skeleton Hit.gif"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Monsters\\Skeleton\\GIFS\\Skeleton Idle.gif",
+      "PackagePath": "staticwebassets\\images\\Monsters\\Skeleton\\GIFS\\Skeleton Idle.gif"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Monsters\\Skeleton\\GIFS\\Skeleton React.gif",
+      "PackagePath": "staticwebassets\\images\\Monsters\\Skeleton\\GIFS\\Skeleton React.gif"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Monsters\\Skeleton\\GIFS\\Skeleton Walk.gif",
+      "PackagePath": "staticwebassets\\images\\Monsters\\Skeleton\\GIFS\\Skeleton Walk.gif"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Monsters\\Skeleton\\Sprite Sheets\\Skeleton Attack.png",
+      "PackagePath": "staticwebassets\\images\\Monsters\\Skeleton\\Sprite Sheets\\Skeleton Attack.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Monsters\\Skeleton\\Sprite Sheets\\Skeleton Dead.png",
+      "PackagePath": "staticwebassets\\images\\Monsters\\Skeleton\\Sprite Sheets\\Skeleton Dead.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Monsters\\Skeleton\\Sprite Sheets\\Skeleton Hit.png",
+      "PackagePath": "staticwebassets\\images\\Monsters\\Skeleton\\Sprite Sheets\\Skeleton Hit.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Monsters\\Skeleton\\Sprite Sheets\\Skeleton Idle.png",
+      "PackagePath": "staticwebassets\\images\\Monsters\\Skeleton\\Sprite Sheets\\Skeleton Idle.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Monsters\\Skeleton\\Sprite Sheets\\Skeleton React.png",
+      "PackagePath": "staticwebassets\\images\\Monsters\\Skeleton\\Sprite Sheets\\Skeleton React.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Monsters\\Skeleton\\Sprite Sheets\\Skeleton Walk.png",
+      "PackagePath": "staticwebassets\\images\\Monsters\\Skeleton\\Sprite Sheets\\Skeleton Walk.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Monsters\\slime.jpg",
+      "PackagePath": "staticwebassets\\images\\Monsters\\slime.jpg"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Monsters\\slime2.png",
+      "PackagePath": "staticwebassets\\images\\Monsters\\slime2.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Monsters\\wizard\\5BcDD7.png",
+      "PackagePath": "staticwebassets\\images\\Monsters\\wizard\\5BcDD7.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Monsters\\wizard\\JT7z+g.gif",
+      "PackagePath": "staticwebassets\\images\\Monsters\\wizard\\JT7z+g.gif"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Monsters\\wizard\\b4oIfD.gif",
+      "PackagePath": "staticwebassets\\images\\Monsters\\wizard\\b4oIfD.gif"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Monsters\\wizard\\bO+TTu.png",
+      "PackagePath": "staticwebassets\\images\\Monsters\\wizard\\bO+TTu.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Monsters\\wizard\\c+siXA.png",
+      "PackagePath": "staticwebassets\\images\\Monsters\\wizard\\c+siXA.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Monsters\\wizard\\gHJUWC.gif",
+      "PackagePath": "staticwebassets\\images\\Monsters\\wizard\\gHJUWC.gif"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Monsters\\wizard\\rJe34e.gif",
+      "PackagePath": "staticwebassets\\images\\Monsters\\wizard\\rJe34e.gif"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Monsters\\wizard\\wizard attack.png",
+      "PackagePath": "staticwebassets\\images\\Monsters\\wizard\\wizard attack.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Monsters\\wizard\\wizard death.png",
+      "PackagePath": "staticwebassets\\images\\Monsters\\wizard\\wizard death.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Monsters\\wizard\\wizard fly forward.png",
+      "PackagePath": "staticwebassets\\images\\Monsters\\wizard\\wizard fly forward.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Monsters\\wizard\\wizard idle.png",
+      "PackagePath": "staticwebassets\\images\\Monsters\\wizard\\wizard idle.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\NPC\\Alchemist.png",
+      "PackagePath": "staticwebassets\\images\\NPC\\Alchemist.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\NPC\\Blacksmith.png",
+      "PackagePath": "staticwebassets\\images\\NPC\\Blacksmith.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Player\\Attack.png",
+      "PackagePath": "staticwebassets\\images\\Player\\Attack.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Player\\Attack2.png",
+      "PackagePath": "staticwebassets\\images\\Player\\Attack2.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Player\\Attack2NoMovement.png",
+      "PackagePath": "staticwebassets\\images\\Player\\Attack2NoMovement.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Player\\AttackCombo2hit.png",
+      "PackagePath": "staticwebassets\\images\\Player\\AttackCombo2hit.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Player\\AttackComboNoMovement.png",
+      "PackagePath": "staticwebassets\\images\\Player\\AttackComboNoMovement.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Player\\AttackNoMovement.png",
+      "PackagePath": "staticwebassets\\images\\Player\\AttackNoMovement.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Player\\Crouch.png",
+      "PackagePath": "staticwebassets\\images\\Player\\Crouch.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Player\\CrouchAttack.png",
+      "PackagePath": "staticwebassets\\images\\Player\\CrouchAttack.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Player\\CrouchFull.png",
+      "PackagePath": "staticwebassets\\images\\Player\\CrouchFull.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Player\\CrouchTransition.png",
+      "PackagePath": "staticwebassets\\images\\Player\\CrouchTransition.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Player\\CrouchWalk.png",
+      "PackagePath": "staticwebassets\\images\\Player\\CrouchWalk.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Player\\Dash.png",
+      "PackagePath": "staticwebassets\\images\\Player\\Dash.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Player\\Death.png",
+      "PackagePath": "staticwebassets\\images\\Player\\Death.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Player\\DeathNoMovement.png",
+      "PackagePath": "staticwebassets\\images\\Player\\DeathNoMovement.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Player\\Fall.png",
+      "PackagePath": "staticwebassets\\images\\Player\\Fall.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Player\\Hit.png",
+      "PackagePath": "staticwebassets\\images\\Player\\Hit.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Player\\Idle.png",
+      "PackagePath": "staticwebassets\\images\\Player\\Idle.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Player\\Jump.png",
+      "PackagePath": "staticwebassets\\images\\Player\\Jump.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Player\\JumpFallInbetween.png",
+      "PackagePath": "staticwebassets\\images\\Player\\JumpFallInbetween.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Player\\NoOutline\\Attack.png",
+      "PackagePath": "staticwebassets\\images\\Player\\NoOutline\\Attack.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Player\\NoOutline\\Attack2.png",
+      "PackagePath": "staticwebassets\\images\\Player\\NoOutline\\Attack2.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Player\\NoOutline\\Attack2NoMovement.png",
+      "PackagePath": "staticwebassets\\images\\Player\\NoOutline\\Attack2NoMovement.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Player\\NoOutline\\AttackCombo.png",
+      "PackagePath": "staticwebassets\\images\\Player\\NoOutline\\AttackCombo.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Player\\NoOutline\\AttackComboNoMovement.png",
+      "PackagePath": "staticwebassets\\images\\Player\\NoOutline\\AttackComboNoMovement.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Player\\NoOutline\\AttackNoMovement.png",
+      "PackagePath": "staticwebassets\\images\\Player\\NoOutline\\AttackNoMovement.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Player\\NoOutline\\Crouch.png",
+      "PackagePath": "staticwebassets\\images\\Player\\NoOutline\\Crouch.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Player\\NoOutline\\CrouchAttack.png",
+      "PackagePath": "staticwebassets\\images\\Player\\NoOutline\\CrouchAttack.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Player\\NoOutline\\CrouchFull.png",
+      "PackagePath": "staticwebassets\\images\\Player\\NoOutline\\CrouchFull.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Player\\NoOutline\\CrouchTransition.png",
+      "PackagePath": "staticwebassets\\images\\Player\\NoOutline\\CrouchTransition.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Player\\NoOutline\\CrouchWalk.png",
+      "PackagePath": "staticwebassets\\images\\Player\\NoOutline\\CrouchWalk.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Player\\NoOutline\\Dash.png",
+      "PackagePath": "staticwebassets\\images\\Player\\NoOutline\\Dash.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Player\\NoOutline\\Death.png",
+      "PackagePath": "staticwebassets\\images\\Player\\NoOutline\\Death.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Player\\NoOutline\\DeathNoMovement.png",
+      "PackagePath": "staticwebassets\\images\\Player\\NoOutline\\DeathNoMovement.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Player\\NoOutline\\Fall.png",
+      "PackagePath": "staticwebassets\\images\\Player\\NoOutline\\Fall.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Player\\NoOutline\\Hit.png",
+      "PackagePath": "staticwebassets\\images\\Player\\NoOutline\\Hit.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Player\\NoOutline\\Idle.png",
+      "PackagePath": "staticwebassets\\images\\Player\\NoOutline\\Idle.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Player\\NoOutline\\Jump.png",
+      "PackagePath": "staticwebassets\\images\\Player\\NoOutline\\Jump.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Player\\NoOutline\\JumpFallInbetween.png",
+      "PackagePath": "staticwebassets\\images\\Player\\NoOutline\\JumpFallInbetween.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Player\\NoOutline\\Roll.png",
+      "PackagePath": "staticwebassets\\images\\Player\\NoOutline\\Roll.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Player\\NoOutline\\Run.png",
+      "PackagePath": "staticwebassets\\images\\Player\\NoOutline\\Run.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Player\\NoOutline\\Slide.png",
+      "PackagePath": "staticwebassets\\images\\Player\\NoOutline\\Slide.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Player\\NoOutline\\SlideFull.png",
+      "PackagePath": "staticwebassets\\images\\Player\\NoOutline\\SlideFull.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Player\\NoOutline\\SlideTransitionEnd.png",
+      "PackagePath": "staticwebassets\\images\\Player\\NoOutline\\SlideTransitionEnd.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Player\\NoOutline\\SlideTransitionStart.png",
+      "PackagePath": "staticwebassets\\images\\Player\\NoOutline\\SlideTransitionStart.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Player\\NoOutline\\TurnAround.png",
+      "PackagePath": "staticwebassets\\images\\Player\\NoOutline\\TurnAround.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Player\\NoOutline\\WallClimb.png",
+      "PackagePath": "staticwebassets\\images\\Player\\NoOutline\\WallClimb.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Player\\NoOutline\\WallClimbNoMovement.png",
+      "PackagePath": "staticwebassets\\images\\Player\\NoOutline\\WallClimbNoMovement.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Player\\NoOutline\\WallHang.png",
+      "PackagePath": "staticwebassets\\images\\Player\\NoOutline\\WallHang.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Player\\NoOutline\\WallSlide.png",
+      "PackagePath": "staticwebassets\\images\\Player\\NoOutline\\WallSlide.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Player\\Roll.png",
+      "PackagePath": "staticwebassets\\images\\Player\\Roll.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Player\\Run.png",
+      "PackagePath": "staticwebassets\\images\\Player\\Run.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Player\\Slide.png",
+      "PackagePath": "staticwebassets\\images\\Player\\Slide.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Player\\SlideFull.png",
+      "PackagePath": "staticwebassets\\images\\Player\\SlideFull.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Player\\SlideTransitionEnd.png",
+      "PackagePath": "staticwebassets\\images\\Player\\SlideTransitionEnd.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Player\\SlideTransitionStart.png",
+      "PackagePath": "staticwebassets\\images\\Player\\SlideTransitionStart.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Player\\TurnAround.png",
+      "PackagePath": "staticwebassets\\images\\Player\\TurnAround.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Player\\WallClimb.png",
+      "PackagePath": "staticwebassets\\images\\Player\\WallClimb.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Player\\WallClimbNoMovement.png",
+      "PackagePath": "staticwebassets\\images\\Player\\WallClimbNoMovement.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Player\\WallHang.png",
+      "PackagePath": "staticwebassets\\images\\Player\\WallHang.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Player\\WallSlide.png",
+      "PackagePath": "staticwebassets\\images\\Player\\WallSlide.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Torbeck.png",
+      "PackagePath": "staticwebassets\\images\\Torbeck.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Torbeck2.png",
+      "PackagePath": "staticwebassets\\images\\Torbeck2.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\UI\\UI Assets pack_v.1_st\\Book.png",
+      "PackagePath": "staticwebassets\\images\\UI\\UI Assets pack_v.1_st\\Book.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\UI\\UI Assets pack_v.1_st\\Interface.png",
+      "PackagePath": "staticwebassets\\images\\UI\\UI Assets pack_v.1_st\\Interface.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\UI\\UI Assets pack_v.1_st\\UI.png",
+      "PackagePath": "staticwebassets\\images\\UI\\UI Assets pack_v.1_st\\UI.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\UI\\UI Assets pack_v.1_st\\ribbon.png",
+      "PackagePath": "staticwebassets\\images\\UI\\UI Assets pack_v.1_st\\ribbon.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\UI\\UI assets pack 2\\Time & weather.png",
+      "PackagePath": "staticwebassets\\images\\UI\\UI assets pack 2\\Time & weather.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\UI\\UI assets pack 2\\UI books & more.png",
+      "PackagePath": "staticwebassets\\images\\UI\\UI assets pack 2\\UI books & more.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\UI\\UI assets pack 2\\UI cooking.png",
+      "PackagePath": "staticwebassets\\images\\UI\\UI assets pack 2\\UI cooking.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\UI\\UI\\Book.png",
+      "PackagePath": "staticwebassets\\images\\UI\\UI\\Book.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\UI\\UI\\UI books & more.png",
+      "PackagePath": "staticwebassets\\images\\UI\\UI\\UI books & more.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\UI\\UI\\UI.png",
+      "PackagePath": "staticwebassets\\images\\UI\\UI\\UI.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\UI\\UI\\ribbon.png",
+      "PackagePath": "staticwebassets\\images\\UI\\UI\\ribbon.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\UI\\Новый текстовый документ.txt",
+      "PackagePath": "staticwebassets\\images\\UI\\Новый текстовый документ.txt"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Village\\BackGround.png",
+      "PackagePath": "staticwebassets\\images\\Village\\BackGround.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Village\\Ground.png",
+      "PackagePath": "staticwebassets\\images\\Village\\Ground.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Village\\Smithy.png",
+      "PackagePath": "staticwebassets\\images\\Village\\Smithy.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\Village\\TraderTent.png",
+      "PackagePath": "staticwebassets\\images\\Village\\TraderTent.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\images\\favicon.ico"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\#2 - Transparent Icons & Drop Shadow.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\#2 - Transparent Icons & Drop Shadow.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\64x64.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\64x64.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile000.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile000.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile001.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile001.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile002.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile002.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile003.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile003.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile004.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile004.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile005.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile005.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile006.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile006.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile007.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile007.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile008.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile008.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile009.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile009.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile010.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile010.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile011.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile011.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile012.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile012.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile013.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile013.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile014.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile014.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile015.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile015.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile016.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile016.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile017.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile017.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile018.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile018.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile019.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile019.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile020.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile020.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile021.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile021.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile022.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile022.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile023.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile023.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile024.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile024.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile025.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile025.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile026.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile026.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile027.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile027.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile028.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile028.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile029.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile029.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile030.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile030.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile031.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile031.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile032.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile032.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile033.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile033.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile034.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile034.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile035.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile035.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile036.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile036.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile037.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile037.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile038.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile038.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile039.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile039.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile040.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile040.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile041.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile041.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile042.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile042.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile043.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile043.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile044.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile044.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile045.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile045.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile046.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile046.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile047.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile047.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile048.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile048.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile049.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile049.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile050.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile050.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile051.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile051.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile052.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile052.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile053.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile053.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile054.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile054.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile055.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile055.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile056.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile056.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile057.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile057.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile058.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile058.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile059.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile059.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile060.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile060.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile061.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile061.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile062.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile062.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile063.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile063.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile064.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile064.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile065.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile065.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile066.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile066.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile067.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile067.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile068.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile068.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile069.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile069.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile070.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile070.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile071.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile071.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile072.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile072.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile073.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile073.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile074.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile074.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile075.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile075.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile076.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile076.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile077.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile077.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile078.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile078.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile079.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile079.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile080.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile080.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile081.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile081.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile082.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile082.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile083.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile083.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile084.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile084.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile085.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile085.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile086.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile086.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile087.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile087.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile088.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile088.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile089.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile089.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile090.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile090.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile091.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile091.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile092.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile092.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile093.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile093.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile094.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile094.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile095.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile095.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile096.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile096.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile097.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile097.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile098.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile098.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile099.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile099.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile100.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile100.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile101.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile101.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile102.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile102.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile103.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile103.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile104.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile104.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile105.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile105.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile106.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile106.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile107.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile107.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile108.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile108.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile109.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile109.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile110.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile110.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\64x64\\tile111.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\64x64\\tile111.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\HUD_2.aseprite",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\HUD_2.aseprite"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\HUD_3.aseprite",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\HUD_3.aseprite"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\Shikashi's Fantasy Icons Pack v2\\#1 - Transparent Icons.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\Shikashi's Fantasy Icons Pack v2\\#1 - Transparent Icons.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\Shikashi's Fantasy Icons Pack v2\\#2 - Transparent Icons & Drop Shadow.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\Shikashi's Fantasy Icons Pack v2\\#2 - Transparent Icons & Drop Shadow.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\Shikashi's Fantasy Icons Pack v2\\BG 10.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\Shikashi's Fantasy Icons Pack v2\\BG 10.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\Shikashi's Fantasy Icons Pack v2\\BG 11.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\Shikashi's Fantasy Icons Pack v2\\BG 11.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\Shikashi's Fantasy Icons Pack v2\\BG 3a.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\Shikashi's Fantasy Icons Pack v2\\BG 3a.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\Shikashi's Fantasy Icons Pack v2\\BG 3b.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\Shikashi's Fantasy Icons Pack v2\\BG 3b.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\Shikashi's Fantasy Icons Pack v2\\BG 3c.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\Shikashi's Fantasy Icons Pack v2\\BG 3c.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\Shikashi's Fantasy Icons Pack v2\\BG 4a.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\Shikashi's Fantasy Icons Pack v2\\BG 4a.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\Shikashi's Fantasy Icons Pack v2\\BG 4b.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\Shikashi's Fantasy Icons Pack v2\\BG 4b.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\Shikashi's Fantasy Icons Pack v2\\BG 5.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\Shikashi's Fantasy Icons Pack v2\\BG 5.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\Shikashi's Fantasy Icons Pack v2\\BG 6.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\Shikashi's Fantasy Icons Pack v2\\BG 6.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\Shikashi's Fantasy Icons Pack v2\\BG 7.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\Shikashi's Fantasy Icons Pack v2\\BG 7.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\Shikashi's Fantasy Icons Pack v2\\BG 8.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\Shikashi's Fantasy Icons Pack v2\\BG 8.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\Shikashi's Fantasy Icons Pack v2\\BG 9.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\Shikashi's Fantasy Icons Pack v2\\BG 9.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\Shikashi's Fantasy Icons Pack v2\\Background 1a.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\Shikashi's Fantasy Icons Pack v2\\Background 1a.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\Shikashi's Fantasy Icons Pack v2\\Background 1b.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\Shikashi's Fantasy Icons Pack v2\\Background 1b.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\Shikashi's Fantasy Icons Pack v2\\Background 2.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\Shikashi's Fantasy Icons Pack v2\\Background 2.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\Shikashi's Fantasy Icons Pack v2\\Shikashi's Fantasy Icons Pack.txt",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\Shikashi's Fantasy Icons Pack v2\\Shikashi's Fantasy Icons Pack.txt"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\Sprite-0001.aseprite",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\Sprite-0001.aseprite"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\Sprite-0002.aseprite",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\Sprite-0002.aseprite"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\Sprite-0003.aseprite",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\Sprite-0003.aseprite"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\Sprite-0004.aseprite",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\Sprite-0004.aseprite"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\Sprite-0005.aseprite",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\Sprite-0005.aseprite"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\Sprite-0009.aseprite",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\Sprite-0009.aseprite"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\crowned-heart_39257.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\crowned-heart_39257.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\crowned-skull_39256.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\crowned-skull_39256.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\icons collection .png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\icons collection .png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\1\\pngjoy.com_fantasy-map-icons-rpg-maker-vx-icon-transparent_4619769.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1\\pngjoy.com_fantasy-map-icons-rpg-maker-vx-icon-transparent_4619769.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\Shield.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Shield.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\Sprite-0030.aseprite",
+      "PackagePath": "staticwebassets\\images\\icons\\Sprite-0030.aseprite"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\Sprite-0031.aseprite",
+      "PackagePath": "staticwebassets\\images\\icons\\Sprite-0031.aseprite"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\inventory\\book.png",
+      "PackagePath": "staticwebassets\\images\\icons\\inventory\\book.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\inventory\\border1.png",
+      "PackagePath": "staticwebassets\\images\\icons\\inventory\\border1.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\inventory\\border2.png",
+      "PackagePath": "staticwebassets\\images\\icons\\inventory\\border2.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\inventory\\border_cash.png",
+      "PackagePath": "staticwebassets\\images\\icons\\inventory\\border_cash.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\inventory\\border_description.png",
+      "PackagePath": "staticwebassets\\images\\icons\\inventory\\border_description.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\inventory\\border_equipment.png",
+      "PackagePath": "staticwebassets\\images\\icons\\inventory\\border_equipment.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\inventory\\border_parameters.png",
+      "PackagePath": "staticwebassets\\images\\icons\\inventory\\border_parameters.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\inventory\\border_weapon.png",
+      "PackagePath": "staticwebassets\\images\\icons\\inventory\\border_weapon.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\inventory\\border_weight&quantity.png",
+      "PackagePath": "staticwebassets\\images\\icons\\inventory\\border_weight&quantity.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\inventory\\cursor\\dwarven_gauntlet.png",
+      "PackagePath": "staticwebassets\\images\\icons\\inventory\\cursor\\dwarven_gauntlet.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\inventory\\cursor\\dwarven_gauntlet_extra_1.png",
+      "PackagePath": "staticwebassets\\images\\icons\\inventory\\cursor\\dwarven_gauntlet_extra_1.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\inventory\\cursor\\dwarven_gauntlet_extra_10.png",
+      "PackagePath": "staticwebassets\\images\\icons\\inventory\\cursor\\dwarven_gauntlet_extra_10.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\inventory\\cursor\\dwarven_gauntlet_extra_2.png",
+      "PackagePath": "staticwebassets\\images\\icons\\inventory\\cursor\\dwarven_gauntlet_extra_2.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\inventory\\cursor\\dwarven_gauntlet_extra_3.png",
+      "PackagePath": "staticwebassets\\images\\icons\\inventory\\cursor\\dwarven_gauntlet_extra_3.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\inventory\\cursor\\dwarven_gauntlet_extra_4.png",
+      "PackagePath": "staticwebassets\\images\\icons\\inventory\\cursor\\dwarven_gauntlet_extra_4.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\inventory\\cursor\\dwarven_gauntlet_extra_5.png",
+      "PackagePath": "staticwebassets\\images\\icons\\inventory\\cursor\\dwarven_gauntlet_extra_5.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\inventory\\cursor\\dwarven_gauntlet_extra_6.png",
+      "PackagePath": "staticwebassets\\images\\icons\\inventory\\cursor\\dwarven_gauntlet_extra_6.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\inventory\\cursor\\dwarven_gauntlet_extra_7.png",
+      "PackagePath": "staticwebassets\\images\\icons\\inventory\\cursor\\dwarven_gauntlet_extra_7.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\inventory\\cursor\\dwarven_gauntlet_extra_8.png",
+      "PackagePath": "staticwebassets\\images\\icons\\inventory\\cursor\\dwarven_gauntlet_extra_8.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\inventory\\cursor\\dwarven_gauntlet_extra_9.png",
+      "PackagePath": "staticwebassets\\images\\icons\\inventory\\cursor\\dwarven_gauntlet_extra_9.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\inventory\\icon_Armor.png",
+      "PackagePath": "staticwebassets\\images\\icons\\inventory\\icon_Armor.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\inventory\\icon_Damage.png",
+      "PackagePath": "staticwebassets\\images\\icons\\inventory\\icon_Damage.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\inventory\\icon_HP.png",
+      "PackagePath": "staticwebassets\\images\\icons\\inventory\\icon_HP.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\inventory\\icon_coin.png",
+      "PackagePath": "staticwebassets\\images\\icons\\inventory\\icon_coin.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\inventory\\icon_crystal.png",
+      "PackagePath": "staticwebassets\\images\\icons\\inventory\\icon_crystal.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\inventory\\icon_player.png",
+      "PackagePath": "staticwebassets\\images\\icons\\inventory\\icon_player.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\inventory\\tab_inventory1.png",
+      "PackagePath": "staticwebassets\\images\\icons\\inventory\\tab_inventory1.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\inventory\\tab_inventory2.png",
+      "PackagePath": "staticwebassets\\images\\icons\\inventory\\tab_inventory2.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\inventory\\tab_player1.png",
+      "PackagePath": "staticwebassets\\images\\icons\\inventory\\tab_player1.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\inventory\\tab_player2.png",
+      "PackagePath": "staticwebassets\\images\\icons\\inventory\\tab_player2.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\inventory\\tab_skills1.png",
+      "PackagePath": "staticwebassets\\images\\icons\\inventory\\tab_skills1.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\inventory\\tab_skills2.png",
+      "PackagePath": "staticwebassets\\images\\icons\\inventory\\tab_skills2.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\items\\AdventurersBackpack.png",
+      "PackagePath": "staticwebassets\\images\\icons\\items\\AdventurersBackpack.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\items\\ArmorPotion.png",
+      "PackagePath": "staticwebassets\\images\\icons\\items\\ArmorPotion.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\items\\BigArmorPotion.png",
+      "PackagePath": "staticwebassets\\images\\icons\\items\\BigArmorPotion.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\items\\BigEndurancePotion.png",
+      "PackagePath": "staticwebassets\\images\\icons\\items\\BigEndurancePotion.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\items\\BigHealthPotion.png",
+      "PackagePath": "staticwebassets\\images\\icons\\items\\BigHealthPotion.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\items\\BigPowerPotion.png",
+      "PackagePath": "staticwebassets\\images\\icons\\items\\BigPowerPotion.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\items\\ClubWithSpikes.png",
+      "PackagePath": "staticwebassets\\images\\icons\\items\\ClubWithSpikes.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\items\\Coin.png",
+      "PackagePath": "staticwebassets\\images\\icons\\items\\Coin.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\items\\Crystal.png",
+      "PackagePath": "staticwebassets\\images\\icons\\items\\Crystal.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\items\\DoubleSidedBattleAxe.png",
+      "PackagePath": "staticwebassets\\images\\icons\\items\\DoubleSidedBattleAxe.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\items\\EndurancePotion.png",
+      "PackagePath": "staticwebassets\\images\\icons\\items\\EndurancePotion.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\items\\Gladius.png",
+      "PackagePath": "staticwebassets\\images\\icons\\items\\Gladius.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\items\\GoldNecklace.png",
+      "PackagePath": "staticwebassets\\images\\icons\\items\\GoldNecklace.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\items\\GuardsArmor.png",
+      "PackagePath": "staticwebassets\\images\\icons\\items\\GuardsArmor.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\items\\GuardsHelmet.png",
+      "PackagePath": "staticwebassets\\images\\icons\\items\\GuardsHelmet.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\items\\GuardsShield.png",
+      "PackagePath": "staticwebassets\\images\\icons\\items\\GuardsShield.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\items\\GuardsSword.png",
+      "PackagePath": "staticwebassets\\images\\icons\\items\\GuardsSword.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\items\\HandfulOfPpreciousStones.png",
+      "PackagePath": "staticwebassets\\images\\icons\\items\\HandfulOfPpreciousStones.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\items\\HealthPotion.png",
+      "PackagePath": "staticwebassets\\images\\icons\\items\\HealthPotion.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\items\\HikingBag.png",
+      "PackagePath": "staticwebassets\\images\\icons\\items\\HikingBag.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\items\\Intrepel.png",
+      "PackagePath": "staticwebassets\\images\\icons\\items\\Intrepel.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\items\\IronArmor.png",
+      "PackagePath": "staticwebassets\\images\\icons\\items\\IronArmor.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\items\\IronHelmet.png",
+      "PackagePath": "staticwebassets\\images\\icons\\items\\IronHelmet.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\items\\IronSword.png",
+      "PackagePath": "staticwebassets\\images\\icons\\items\\IronSword.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\items\\LeatherArmor.png",
+      "PackagePath": "staticwebassets\\images\\icons\\items\\LeatherArmor.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\items\\LeatherHelmet.png",
+      "PackagePath": "staticwebassets\\images\\icons\\items\\LeatherHelmet.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\items\\Mace.png",
+      "PackagePath": "staticwebassets\\images\\icons\\items\\Mace.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\items\\NecklaceOfTeeth.png",
+      "PackagePath": "staticwebassets\\images\\icons\\items\\NecklaceOfTeeth.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\items\\PowerPotion.png",
+      "PackagePath": "staticwebassets\\images\\icons\\items\\PowerPotion.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\items\\Rapier.png",
+      "PackagePath": "staticwebassets\\images\\icons\\items\\Rapier.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\items\\Ring.png",
+      "PackagePath": "staticwebassets\\images\\icons\\items\\Ring.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\items\\RingWithStone.png",
+      "PackagePath": "staticwebassets\\images\\icons\\items\\RingWithStone.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\items\\RoundWoodenShield.png",
+      "PackagePath": "staticwebassets\\images\\icons\\items\\RoundWoodenShield.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\items\\Saber.png",
+      "PackagePath": "staticwebassets\\images\\icons\\items\\Saber.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\items\\SlimeCore.png",
+      "PackagePath": "staticwebassets\\images\\icons\\items\\SlimeCore.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\items\\SmallArmorPotion.png",
+      "PackagePath": "staticwebassets\\images\\icons\\items\\SmallArmorPotion.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\items\\SmallHealthPotion.png",
+      "PackagePath": "staticwebassets\\images\\icons\\items\\SmallHealthPotion.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\items\\SmallPowerPotion.png",
+      "PackagePath": "staticwebassets\\images\\icons\\items\\SmallPowerPotion.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\items\\SmallStaminaPotion.png",
+      "PackagePath": "staticwebassets\\images\\icons\\items\\SmallStaminaPotion.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\items\\WoodenShield.png",
+      "PackagePath": "staticwebassets\\images\\icons\\items\\WoodenShield.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\items\\WoodenSword.png",
+      "PackagePath": "staticwebassets\\images\\icons\\items\\WoodenSword.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\items\\asets\\#1 - Transparent Icons.png",
+      "PackagePath": "staticwebassets\\images\\icons\\items\\asets\\#1 - Transparent Icons.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\items\\asets\\#2 - Transparent Icons & Drop Shadow.png",
+      "PackagePath": "staticwebassets\\images\\icons\\items\\asets\\#2 - Transparent Icons & Drop Shadow.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\items\\asets\\#3 - pngjoy.com_fantasy-map-icons-rpg-maker-vx-icon-transparent_4619769.png",
+      "PackagePath": "staticwebassets\\images\\icons\\items\\asets\\#3 - pngjoy.com_fantasy-map-icons-rpg-maker-vx-icon-transparent_4619769.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\items\\asets\\Items_Icons.aseprite",
+      "PackagePath": "staticwebassets\\images\\icons\\items\\asets\\Items_Icons.aseprite"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\items\\asets\\Knight's Shield.aseprite",
+      "PackagePath": "staticwebassets\\images\\icons\\items\\asets\\Knight's Shield.aseprite"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\items\\asets\\items.txt",
+      "PackagePath": "staticwebassets\\images\\icons\\items\\asets\\items.txt"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\items\\img\\#1 - Transparent Icons.png",
+      "PackagePath": "staticwebassets\\images\\icons\\items\\img\\#1 - Transparent Icons.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\items\\img\\#2 - Transparent Icons & Drop Shadow.png",
+      "PackagePath": "staticwebassets\\images\\icons\\items\\img\\#2 - Transparent Icons & Drop Shadow.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\items\\img\\pngjoy.com_fantasy-map-icons-rpg-maker-vx-icon-transparent_4619769.png",
+      "PackagePath": "staticwebassets\\images\\icons\\items\\img\\pngjoy.com_fantasy-map-icons-rpg-maker-vx-icon-transparent_4619769.png"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\images\\icons\\items\\items.json",
+      "PackagePath": "staticwebassets\\images\\icons\\items\\items.json"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Monster Dungeon.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Monster Dungeon.props",
+      "PackagePath": "build\\Monster Dungeon.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Monster Dungeon.props",
+      "PackagePath": "buildMultiTargeting\\Monster Dungeon.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Monster Dungeon.props",
+      "PackagePath": "buildTransitive\\Monster Dungeon.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

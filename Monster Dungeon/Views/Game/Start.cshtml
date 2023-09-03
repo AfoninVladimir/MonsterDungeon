@@ -1,0 +1,671 @@
+﻿@{
+    Layout = "";    
+}
+<head>
+	<!-- cursor:none; -->
+	<title>Monster Dungeon</title>
+    <style>
+		body{
+			background-image: url(https://localhost:44319/images/Dungeon/DungeonBG.png);
+			background-repeat: no-repeat;
+			background-size: 100% 100%;
+			width: 100%;
+			height: 100%;
+			position: absolute; 
+			margin: 0px;
+
+			display: flex;
+			justify-content: center;
+			align-items: center;
+		}
+
+		#book_inventory{
+		    display: none;
+		    align-items: center;
+		    justify-content: center;
+			position: absolute;
+		    cursor: url("images/icons/inventory/cursor/dwarven_gauntlet_extra_2.png"), default;
+			z-index: 1000;
+		}
+
+		/*** Закладки ***/
+
+		.bookmarks{
+		    display: flex;
+		    align-items: center;
+		    justify-content: end;
+		    margin-right: 125px;
+		
+		}
+		.mark_player, .mark_inventory, .mark_skills{
+		    width: 5em;
+		    height: 5em;
+		    background-size: 5em 5em;
+		    margin-inline: 0.3em;
+		}
+		#btn_mark_player, #btn_mark_inventory, #btn_mark_skills{
+		    width: 100%;
+		    height: 100%;
+		    background-size: 100% 100%;
+		    background-repeat: no-repeat;
+		    background-color: rgba(255, 255, 255, 0);
+		    border: none;
+		    cursor: url("images/icons/inventory/cursor/dwarven_gauntlet_extra_2.png"), default;
+		
+		    transition: 500ms;
+		}
+		#btn_mark_player{
+		    background-image: url(images/icons/inventory/tab_player2.png);
+		}
+		#btn_mark_inventory{
+		    background-image: url(images/icons/inventory/tab_inventory1.png);
+		}
+		#btn_mark_skills{
+		    background-image: url(images/icons/inventory/tab_skills1.png);
+		}
+
+		/*** Книга ***/
+		.book{
+		    width: 65em;
+		    height: 38em;
+		    background-size: 65em 38em;
+		    background-image: url(images/icons/inventory/book.png);
+		    background-repeat: no-repeat;
+		
+		}
+
+		/**** Окно Игрока ****/
+		#windiwPlayer{
+		
+		    width: 100%;
+		    height: 100%;
+		    display: flex; /*flex - none*/
+		    justify-content: center;
+		    align-items: center;
+		}
+		.leftBoxPlayer{
+		    display: grid;
+		    align-items: center;
+		    justify-content: center;
+		
+		    width: 50%;
+		    height: 100%;
+		}
+
+		.iconPlayer{
+		    background-image: url(images/icons/inventory/icon_player.png);
+		    width: 15em;
+		    height: 20em;
+		    background-size: 15em 20em;
+		    background-repeat: no-repeat;
+		    margin-top: 25px;
+		    margin-left: 70px;
+		}
+		.stats{
+		    display: flex;
+		    align-items: center;
+		    justify-content: space-around;
+		    background-image: url(images/icons/inventory/border_parameters.png);
+		    width: 24em;
+		    height: 11em;
+		    background-size: 24em 11em;
+		    background-repeat: no-repeat;
+		    margin-bottom: 80px;
+		}
+
+		/* Параметры */
+		.parameters{
+		    width: 8em;
+		    font-family: "Sonic";
+		    font-size: 1em;
+		
+		}
+		.icon_hp, .icon_armor, .icon_damage{
+		    display: flex;
+		    align-items: center;
+		    justify-content: center;
+		
+		    width: 3em;
+		    height: 3em;
+		    background-size: 3em 3em;
+		    background-repeat: no-repeat;
+		    padding-left: 60px;
+		    margin-left: 20px;
+		}
+		.icon_hp{
+		    background-image: url(images/icons/inventory/icon_HP.png);
+		}
+		.icon_armor{
+		    background-image: url(images/icons/inventory/icon_Armor.png);
+		}
+		.icon_damage{
+		    background-image: url(images/icons/inventory/icon_Damage.png);
+		}
+
+		.characteristics{
+		    display: flex;
+		    justify-content: start;
+		    align-items: start;
+		
+		    font-family: "Sonic";
+		    font-size: 0.8em;
+		
+		    width: 19em;
+		    height: 100%;
+		
+		}
+
+		/* Cтиль характеристик */
+		.name_characteristics, .value_characteristics{
+		    padding: 10px;
+		    margin-top: 20px;
+		    display: grid;
+		}
+
+		/** Снаряжение **/
+		.rightBoxPlayer{
+		    display: grid;
+		    align-items: flex-start;
+		    justify-content: center;
+		
+		    width: 50%;
+		    height: 100%;
+		}
+
+		.borderEquipment{
+		    background-image: url(images/icons/inventory/border_equipment.png);
+		    width: 24em;
+		    height: 24.4em;
+		    background-size: 24em 24.4em;
+		    background-repeat: no-repeat;
+		
+		    margin-top: 23px;
+		}
+
+		.borderWeapon{
+		    display: flex;
+		    align-items: center;
+		    justify-content: space-evenly;
+		
+		    background-image: url(images/icons/inventory/border_weapon.png);
+		    width: 24em;
+		    height: 7em;
+		    background-size: 24em 7em;
+		    background-repeat: no-repeat;
+		
+		    margin-bottom: 75px;
+		}
+
+		.iconsUp, .iconsDoun{
+		    display: flex;
+		    align-items: center;
+		    justify-content: center;
+		}
+
+		.iconsUp{
+		    padding-top: 50px;
+		}
+
+		.iconsDoun{
+		    padding-top: 20px;
+		}
+
+		.window_equipment{
+		    background-image: url(images/icons/inventory/border2.png);
+		    width: 7em;
+		    height: 7em;
+		    background-size: 7em;
+		    margin: 10px;
+		}
+		.window_weapon{
+		    background-image: url(images/icons/inventory/border2.png);
+		    width: 7em;
+		    height: 7em;
+		    background-size: 7em;
+		    background-repeat: no-repeat;
+		}
+
+		/**** Окно инвентаря ****/
+
+		#windiwInventory{
+		    width: 100%;
+		    height: 100%;
+		    display: none; /*flex - none*/
+		    justify-content: center;
+		    align-items: center;
+		}
+
+		.leftBoxInventory{
+		    width: 50%;
+		    height: 100%;
+		
+		    display: grid;
+		    align-items: center;
+		    justify-content: center;
+		}
+
+		#itemName, #itemHaracteristics, #itemDescription{
+		    display: grid;
+		
+		    width: 11em;
+		    font-family: "Pixeleum48";
+		    font-size: 1em;
+		}
+
+		#itemName{
+		    background-image: url("images/icons/Shield.png");
+		    background-repeat: no-repeat;
+		    align-items: center;
+		    height: 3em;
+		    width: 11em;
+		    background-size: 3em 3em;
+		    font-size: 1.5em;
+		    padding-left: 80px;
+		    padding-right: 10px;;
+		    margin-top: 20px;
+		    margin-left: 10px;
+		}
+
+		#itemHaracteristics{
+		    align-content: start;
+		    font-size: 1.2em;
+		    height: 6em;
+		    width: 15em;
+		    padding: 10px;
+		    padding-left: 20px;
+		}
+
+		#itemDescription{
+		    align-content: start;
+		    height: 14em;
+		    width: 23em;
+		    margin-bottom: 80px;
+		    padding: 10px;
+		    padding-left: 20px;
+		}
+
+		.rightBoxInventory{
+		    width: 50%;
+		    height: 100%;
+
+		    display: grid;
+		    align-items: flex-start;
+		    justify-content: center;
+		}
+
+		/** Верхняя рамка **/
+		.borderDescriptionItem{
+		    background-image: url(images/icons/inventory/border_description.png);
+		    background-repeat: no-repeat;
+		    width: 24em;
+		    height: 28.7em;
+		    background-size: 24em 28.7em;
+		    margin-top: 23px;
+		}
+
+		/* Перечень предметов */
+		.inventoryList{
+		    min-height: 25em;
+		    margin-bottom: 10px;
+		}
+		/* Список */
+		#list{
+		    font-family: "Pixeleum48";
+		    font-size: 1em;
+		    margin: 0px;
+		    padding: 0px;
+
+		    margin-top: 10px;
+			max-height: 25em;
+			overflow-y: scroll;
+		}
+
+		.item {
+		    list-style: none;
+		    display: flex;
+		    align-items: center;
+		    justify-content: space-between;
+
+		    padding-inline: 10px;
+		    margin: 5px;
+		}
+
+		#list :hover{
+    		background-color: rgba(0, 0, 0, 0.1);
+		}
+
+		.iconItem{
+		    display: flex;
+		    align-items: center;
+		    justify-content: left;
+
+		    padding-left: 2.5em;
+		    margin-right: 0.5em;
+
+
+		    height: 2em;
+		    background-size: 2em;
+		    background-repeat: no-repeat;
+		    background-position: left;
+			font-size: 1.2em;
+
+		}
+
+		/* Общий вес и количество предметов */
+		.borderMass{
+		    display: flex;
+		    align-items: center;
+		    justify-content: space-between;
+
+		    width: 21.7em;
+		    height: 2em;
+		    margin-inline: 18px;
+
+		    background-image: url(images/icons/inventory/border_weight&quantity.png);
+		    background-repeat: no-repeat;
+		    background-size: 21.8em 2em;
+		}
+		.weight, .quantity{
+		    font-family: "Pixeleum48";
+		    font-size: 1.2em;
+		    padding-inline: 30px;
+		}
+		/* Вес */
+		.weight{
+
+		}
+		/* Кол-во  */
+		.quantity{
+
+		}
+
+		/** Нижняя рамка **/
+
+		.borderCash{
+		    background-image: url(images/icons/inventory/border_cash.png);
+		    background-repeat: no-repeat;
+
+		    display: flex;
+		    justify-content: space-between;
+		    align-items: center;
+
+		    width: 24em;
+		    height: 2.5em;
+		    background-size: 24em 2.5em;
+		    margin-bottom: 90px;
+		    margin-top: 5px;
+		}
+
+		#crystals, #coins{
+		    display: flex;
+		    align-items:center;
+		    font-family: "Pixeleum48";
+		    font-size: 1.2em;
+		    background-repeat: no-repeat;
+		    background-size: 1em;
+		    margin-inline: 30px;
+		    padding-bottom: 5px;
+		}
+		#crystals{
+		    background-image: url(images/icons/inventory/icon_crystal.png);
+		    min-width: 0.7em;
+		    height: 2em;
+		    background-size: 0.8em;
+		    justify-content: end;
+		    background-position: left;
+		    padding-left: 30px;
+		}
+
+		#coins{
+		    background-image: url(images/icons/inventory/icon_coin.png);
+		    min-width: 0.7em;
+		    height: 2em;
+		    justify-content: start;
+		    background-position: right;
+		    padding-right: 30px;
+		}
+
+		/**** Окно навыков ****/
+		#windiwSkills{
+
+		}
+	</style>
+	<script src="https://code.jquery.com/jquery-3.6.0.js"
+			integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk="
+			crossorigin="anonymous">
+	</script>
+	<script>
+
+		const urlParams = new URLSearchParams(window.location.search);
+		const gameId = urlParams.get('gameId');
+		const userId = urlParams.get('userId');
+
+		function Render(ServerObject) {
+			let div = document.createElement('div');
+			div.classList.add(ServerObject.Class);
+			div.style.width = ServerObject.Width + "px";
+			div.style.height = ServerObject.Height + "px";
+			div.style.backgroundImage = ServerObject.BackgroundImage;
+			div.style.backgroundSize = ServerObject.BackgroundSize;
+			div.style.backgroundRepeat = ServerObject.BackgroundRepeat;
+			div.style.backgroundColor = ServerObject.BackgroundColor;
+			div.style.backgroundPositionX = ServerObject.BackgroundPositionX;
+			div.style.position = ServerObject.Position;
+			div.style.left = ServerObject.Left + "px";
+			div.style.top = ServerObject.Top + "px";
+			div.style.bottom = ServerObject.Bottom + "px";
+			div.style.class = ServerObject.Class;
+			div.style.display = ServerObject.display;
+			div.id = ServerObject.ID;
+			div.style.transform = ServerObject.Transform;
+			div.zIndex = ServerObject.z_index;
+			
+			if (ServerObject.BoxCollider != null) {
+				let Box = document.createElement('div');
+				Box.classList.add(ServerObject.BoxCollider.Class);
+				Box.style.width = ServerObject.BoxCollider.Width + "px";
+				Box.style.height = ServerObject.BoxCollider.Height + "px";
+				Box.style.backgroundColor = ServerObject.BoxCollider.BackgroundColor;
+				Box.style.position = ServerObject.BoxCollider.Position;
+				Box.style.left = ServerObject.BoxCollider.Left + "px";
+				Box.style.top = ServerObject.BoxCollider.Top + "px";
+				Box.style.bottom = ServerObject.BoxCollider.Bottom + "px";
+				Box.style.class = ServerObject.BoxCollider.Class;
+				Box.id = ServerObject.BoxCollider.ID;
+				div.appendChild(Box);
+			}
+			if (ServerObject.BoxAttack != null) {
+				let Box = document.createElement('div');
+				Box.classList.add(ServerObject.BoxAttack.Class);
+				Box.style.width = ServerObject.BoxAttack.Width + "px";
+				Box.style.height = ServerObject.BoxAttack.Height + "px";
+				Box.style.backgroundColor = ServerObject.BoxAttack.BackgroundColor;
+				Box.style.position = ServerObject.BoxAttack.Position;
+				Box.style.display = ServerObject.BoxAttack.display;
+				Box.style.left = ServerObject.BoxAttack.Left + "px";
+				Box.style.top = ServerObject.BoxAttack.Top + "px";
+				Box.style.bottom = ServerObject.BoxAttack.Bottom + "px";
+				Box.style.class = ServerObject.BoxAttack.Class;
+				Box.style.display = ServerObject.BoxAttack.display;
+				Box.id = ServerObject.BoxAttack.ID;
+				div.appendChild(Box);
+			}
+			document.body.appendChild(div);
+		}
+
+		function refresh() {
+			$.get("https://localhost:44319/Game/GetElements?gameId=" + gameId + "&userId=" + userId, function (date) {
+
+				arr = JSON.parse(date);
+
+				for (let i = 0; i < arr.length; i++) {
+					console.log(arr[i]);
+					var exist = false;
+					for (let j = 0; j < objects.length; j++) {
+						if (arr[i].ObjectType == "Player") {
+							// console.log(arr[i].Intersector);
+							// console.log(arr[i].Animation);
+							// console.log("Player");
+							// console.log("HP: " + arr[i].HP + "/" + arr[i].MaxHP);
+							// console.log("Damage: " + arr[i].Damage);
+							// console.log(arr[i].Status);
+						}
+						if (arr[i].ObjectType == "Enemy") {
+							// console.log("Enemy");
+							// console.log("HP: " + arr[i].HP + "/" + arr[i].MaxHP);
+							// console.log(arr[i].Status);
+						}
+						if (arr[i].ID == objects[j].ID) {
+							exist = true;
+							document.getElementById(arr[i].ID).style.left = arr[i].Left + "px";
+							document.getElementById(arr[i].ID).style.bottom = arr[i].Bottom + "px";
+							document.getElementById(arr[i].ID).style.backgroundImage = arr[i].BackgroundImage;
+							document.getElementById(arr[i].ID).style.backgroundPositionX = arr[i].BackgroundPositionX + "px";
+							document.getElementById(arr[i].ID).style.transform = arr[i].Transform;
+							
+							if (arr[i].BoxCollider != null) {
+								document.getElementById(arr[i].BoxCollider.ID).style.left = arr[i].BoxCollider.Left + "px";
+								document.getElementById(arr[i].BoxCollider.ID).style.bottom = arr[i].BoxCollider.Bottom + "px";
+							}
+							
+							if (arr[i].BoxAttack != null) {
+								document.getElementById(arr[i].BoxAttack.ID).style.left = arr[i].BoxAttack.Left + "px";
+								document.getElementById(arr[i].BoxAttack.ID).style.bottom = arr[i].BoxAttack.Bottom + "px";
+								document.getElementById(arr[i].BoxAttack.ID).style.display = arr[i].BoxAttack.Display;
+							}
+							break;
+						}
+					}
+					if (!exist) {
+						Render(arr[i]);
+					}
+				}
+
+				for (var i = 0; i < objects.length; i++) {
+					var exist = false;
+					for (var j = 0; j < arr.length; j++) {
+						if (objects[i].ID == arr[j].ID) {
+							exist = true;
+							break;
+						}
+					}
+
+					if (!exist) {
+						document.getElementById(objects[i].ID).remove();
+					}
+				}
+
+				objects = arr;
+			});
+		}
+
+		function Start() {
+			refresh();
+		}
+
+		document.addEventListener("mousedown", function (event) {
+			$.get("https://localhost:44319/Game/PressButton?keyCode=" + 1011 + "&pressed=true" + "&gameId=" + gameId + "&userId=" + userId);
+		});
+
+		document.addEventListener("mouseup", function (event) {
+			$.get("https://localhost:44319/Game/PressButton?keyCode=" + 1011 + "&pressed=false" + "&gameId=" + gameId + "&userId=" + userId);
+		});
+
+		document.addEventListener('keydown', function (event) {
+			$.get("https://localhost:44319/Game/PressButton?keyCode=" + event.keyCode + "&pressed=true" + "&gameId=" + gameId + "&userId=" + userId);
+		});
+
+		document.addEventListener('keyup', function (event) {
+			$.get("https://localhost:44319/Game/PressButton?keyCode=" + event.keyCode + "&pressed=false" + "&gameId=" + gameId + "&userId=" + userId);
+		});
+
+		document.addEventListener("DOMContentLoaded", function () {
+			$.get("https://localhost:44319/Game/GetElements?gameId=" + gameId + "&userId=" + userId, function (data) {
+				var arr = JSON.parse(data);
+				console.log(arr);
+				for (let i = 0; i < arr.length; i++) {
+					Render(arr[i]);
+				}
+				objects = arr;
+			});
+			var playInterval = setInterval(Start, 10);
+		})
+	</script>
+</head>
+<body style="overflow: hidden;">
+	<div id="book_inventory">
+		<div class="bookmarks">
+			<div class="mark_player"><button id="btn_mark_player" onclick="background_image(this)"></button></div>
+			<div class="mark_inventory"><button id="btn_mark_inventory" onclick="background_image(this)"></button></div>
+			<div class="mark_skills"><button id="btn_mark_skills" onclick="background_image(this)"></button></div>
+		</div>
+		<div class="book">
+			<div id="windiwPlayer">
+				<div class="leftBoxPlayer">
+					<div class="iconPlayer"></div>
+					<div class="stats">
+						<div class="parameters">
+							<div class="icon_hp"><span id="maxHP"></span></div>
+							<div class="icon_armor"><span id="armor"></span></div>
+							<div class="icon_damage"><span id="damage"></span></div>
+						</div>
+						<div class="characteristics">
+							<div class="name_characteristics">  <span>Сила</span>   <span>Ловкость</span>   <span>Стойкость</span>  <span>Живучесть</span>      <span>Выносливость</span>   <span>Фехтование</span></div>
+							<div class="value_characteristics"> <span id="power"></span> <span id="dexterity"></span> <span id="durability"></span> <span id="vitality"></span> <span id="endurance"></span> <span id="swordplay"></span></div>
+						</div>
+					</div>
+				</div>
+				<div class="rightBoxPlayer">
+					<div class="borderEquipment">
+						<div class="iconsUp">
+							<div class="window_equipment"></div>
+							<div class="window_equipment"></div>
+							<div class="window_equipment"></div>
+						</div>
+						<div class="iconsDoun">
+							<div class="window_equipment"></div>
+							<div class="window_equipment"></div>
+							<div class="window_equipment"></div>
+						</div>
+					</div>
+					<div class="borderWeapon">
+						<div class="window_weapon"></div>
+						<div class="window_weapon"></div>
+					</div>
+				</div>
+			</div>
+			<div id="windiwInventory">
+				<div class="leftBoxInventory">
+					<div id="itemName"><span>Деревянный щит</span></div>
+					<div id="itemHaracteristics">
+						<span>Тип: щит</span> <span>+5 брони</span> <span>Требование: 10 силы</span> <span>бонус от ловкости</span>
+					</div>
+					<div id="itemDescription">
+						<span>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iste necessitatibus facere harum illo consequuntur, soluta, labore aut optio earum laborum, quae ex minus eum? Dolore assumenda doloribus minus rerum suscipit.</span>
+					</div>
+				</div>
+				<div class="rightBoxInventory">
+					<div class="borderDescriptionItem">
+						<div class="inventoryList">
+							<ul id="list">
+							</ul>
+						</div>
+						<div class="borderMass">
+							<div class="weight"><span id="weight"></span></div>
+							<div class="quantity"><span id="quantity"></span></div>
+						</div>
+					</div>
+					<div class="borderCash">
+						<div id="crystals"><span>1</span></div>
+						<div id="coins"><span>10</span></div>
+					</div>
+				</div>
+			</div>
+			<div id="windiwSkills">
+				<div class="leftBoxSkills"></div>
+				<div class="rightBoxSkills"></div>
+			</div>
+
+		</div>
+	</div>
+</body> 
