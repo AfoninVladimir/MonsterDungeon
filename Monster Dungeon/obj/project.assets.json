@@ -3595,11 +3595,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\Monster Dungeon.csproj",
+      "projectUniqueName": "G:\\Projects\\MonsterDungeon\\Monster Dungeon\\Monster Dungeon.csproj",
       "projectName": "Monster Dungeon",
-      "projectPath": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\Monster Dungeon.csproj",
+      "projectPath": "G:\\Projects\\MonsterDungeon\\Monster Dungeon\\Monster Dungeon.csproj",
       "packagesPath": "C:\\Users\\vovaa\\.nuget\\packages\\",
-      "outputPath": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\obj\\",
+      "outputPath": "G:\\Projects\\MonsterDungeon\\Monster Dungeon\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vovaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3616,11 +3616,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "G:\\Projects\\Monster Dungeon\\BL\\BL.csproj": {
-              "projectPath": "G:\\Projects\\Monster Dungeon\\BL\\BL.csproj"
+            "G:\\Projects\\MonsterDungeon\\BL\\BL.csproj": {
+              "projectPath": "G:\\Projects\\MonsterDungeon\\BL\\BL.csproj"
             },
-            "G:\\Projects\\Monster Dungeon\\Entity\\Entity.csproj": {
-              "projectPath": "G:\\Projects\\Monster Dungeon\\Entity\\Entity.csproj"
+            "G:\\Projects\\MonsterDungeon\\Entity\\Entity.csproj": {
+              "projectPath": "G:\\Projects\\MonsterDungeon\\Entity\\Entity.csproj"
             }
           }
         }

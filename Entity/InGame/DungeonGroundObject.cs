@@ -17,7 +17,7 @@ namespace Entity.InGame
 			BoxCollider.Width = Width;
 			BoxCollider.Left = 0;
 			BoxCollider.Bottom = 0;
-            BoxCollider.BackgroundColor = "rgba(255, 150, 0, 0.5)";
+            //BoxCollider.BackgroundColor = "rgba(255, 150, 0, 0.5)";
 			BoxCollider.ID = "HitBox" + ID;
 
 			BackgroundImage = "url(https://localhost:44319/images/Dungeon/DungeonGround.png)";

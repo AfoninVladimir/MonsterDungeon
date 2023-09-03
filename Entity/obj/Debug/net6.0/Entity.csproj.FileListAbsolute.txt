@@ -10,3 +10,15 @@ G:\Projects\Monster Dungeon\Entity\obj\Debug\net6.0\refint\Entity.dll
 G:\Projects\Monster Dungeon\Entity\obj\Debug\net6.0\Entity.pdb
 G:\Projects\Monster Dungeon\Entity\obj\Debug\net6.0\ref\Entity.dll
 G:\Projects\Monster Dungeon\Entity\obj\Debug\net6.0\Entity.csproj.AssemblyReference.cache
+G:\Projects\MonsterDungeon\Entity\bin\Debug\net6.0\Entity.deps.json
+G:\Projects\MonsterDungeon\Entity\bin\Debug\net6.0\Entity.dll
+G:\Projects\MonsterDungeon\Entity\bin\Debug\net6.0\Entity.pdb
+G:\Projects\MonsterDungeon\Entity\obj\Debug\net6.0\Entity.csproj.AssemblyReference.cache
+G:\Projects\MonsterDungeon\Entity\obj\Debug\net6.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\MonsterDungeon\Entity\obj\Debug\net6.0\Entity.AssemblyInfoInputs.cache
+G:\Projects\MonsterDungeon\Entity\obj\Debug\net6.0\Entity.AssemblyInfo.cs
+G:\Projects\MonsterDungeon\Entity\obj\Debug\net6.0\Entity.csproj.CoreCompileInputs.cache
+G:\Projects\MonsterDungeon\Entity\obj\Debug\net6.0\Entity.dll
+G:\Projects\MonsterDungeon\Entity\obj\Debug\net6.0\refint\Entity.dll
+G:\Projects\MonsterDungeon\Entity\obj\Debug\net6.0\Entity.pdb
+G:\Projects\MonsterDungeon\Entity\obj\Debug\net6.0\ref\Entity.dll

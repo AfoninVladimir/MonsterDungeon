@@ -3573,11 +3573,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Projects\\Monster Dungeon\\BL\\BL.csproj",
+      "projectUniqueName": "G:\\Projects\\MonsterDungeon\\BL\\BL.csproj",
       "projectName": "BL",
-      "projectPath": "G:\\Projects\\Monster Dungeon\\BL\\BL.csproj",
+      "projectPath": "G:\\Projects\\MonsterDungeon\\BL\\BL.csproj",
       "packagesPath": "C:\\Users\\vovaa\\.nuget\\packages\\",
-      "outputPath": "G:\\Projects\\Monster Dungeon\\BL\\obj\\",
+      "outputPath": "G:\\Projects\\MonsterDungeon\\BL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vovaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3594,11 +3594,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "G:\\Projects\\Monster Dungeon\\DAL\\DAL.csproj": {
-              "projectPath": "G:\\Projects\\Monster Dungeon\\DAL\\DAL.csproj"
+            "G:\\Projects\\MonsterDungeon\\DAL\\DAL.csproj": {
+              "projectPath": "G:\\Projects\\MonsterDungeon\\DAL\\DAL.csproj"
             },
-            "G:\\Projects\\Monster Dungeon\\Entity\\Entity.csproj": {
-              "projectPath": "G:\\Projects\\Monster Dungeon\\Entity\\Entity.csproj"
+            "G:\\Projects\\MonsterDungeon\\Entity\\Entity.csproj": {
+              "projectPath": "G:\\Projects\\MonsterDungeon\\Entity\\Entity.csproj"
             }
           }
         }

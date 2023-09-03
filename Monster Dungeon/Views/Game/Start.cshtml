@@ -499,22 +499,21 @@
 				arr = JSON.parse(date);
 
 				for (let i = 0; i < arr.length; i++) {
-					console.log(arr[i]);
 					var exist = false;
 					for (let j = 0; j < objects.length; j++) {
-						if (arr[i].ObjectType == "Player") {
-							// console.log(arr[i].Intersector);
-							// console.log(arr[i].Animation);
-							// console.log("Player");
-							// console.log("HP: " + arr[i].HP + "/" + arr[i].MaxHP);
-							// console.log("Damage: " + arr[i].Damage);
-							// console.log(arr[i].Status);
-						}
-						if (arr[i].ObjectType == "Enemy") {
-							// console.log("Enemy");
-							// console.log("HP: " + arr[i].HP + "/" + arr[i].MaxHP);
-							// console.log(arr[i].Status);
-						}
+						// if (arr[i].ObjectType == "Player") {
+						// 	console.log(arr[i].Intersector);
+						// 	console.log(arr[i].Animation);
+						// 	console.log("Player");
+						// 	console.log("HP: " + arr[i].HP + "/" + arr[i].MaxHP);
+						// 	console.log("Damage: " + arr[i].Damage);
+						// 	console.log(arr[i].Status);
+						// }
+						// if (arr[i].ObjectType == "Enemy") {
+						// 	console.log("Enemy");
+						// 	console.log("HP: " + arr[i].HP + "/" + arr[i].MaxHP);
+						// 	console.log(arr[i].Status);
+						// }
 						if (arr[i].ID == objects[j].ID) {
 							exist = true;
 							document.getElementById(arr[i].ID).style.left = arr[i].Left + "px";

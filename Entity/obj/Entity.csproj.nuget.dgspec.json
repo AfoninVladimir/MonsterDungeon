@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Projects\\Monster Dungeon\\Entity\\Entity.csproj": {}
+    "G:\\Projects\\MonsterDungeon\\Entity\\Entity.csproj": {}
   },
   "projects": {
-    "G:\\Projects\\Monster Dungeon\\Entity\\Entity.csproj": {
+    "G:\\Projects\\MonsterDungeon\\Entity\\Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Projects\\Monster Dungeon\\Entity\\Entity.csproj",
+        "projectUniqueName": "G:\\Projects\\MonsterDungeon\\Entity\\Entity.csproj",
         "projectName": "Entity",
-        "projectPath": "G:\\Projects\\Monster Dungeon\\Entity\\Entity.csproj",
+        "projectPath": "G:\\Projects\\MonsterDungeon\\Entity\\Entity.csproj",
         "packagesPath": "C:\\Users\\vovaa\\.nuget\\packages\\",
-        "outputPath": "G:\\Projects\\Monster Dungeon\\Entity\\obj\\",
+        "outputPath": "G:\\Projects\\MonsterDungeon\\Entity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vovaa\\AppData\\Roaming\\NuGet\\NuGet.Config",

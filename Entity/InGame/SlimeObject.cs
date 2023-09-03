@@ -30,7 +30,7 @@ namespace Entity.InGame
             BoxCollider.Height = Height;
             BoxCollider.Left = 0;
             BoxCollider.Bottom = 0;
-            BoxCollider.BackgroundColor = "rgba(255, 0, 0, 0.5)";
+            //BoxCollider.BackgroundColor = "rgba(255, 0, 0, 0.5)";
 
 		}
     }

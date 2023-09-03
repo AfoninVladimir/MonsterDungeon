@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/Dim8V/0pIQ4822bBZL6lZvkH7y7wXDeVcRMDRO9xmAgoNTHupwGjXL5RmdV14kyxgUcikWsUHrZiyYFaW1qrA==",
+  "dgSpecHash": "XpwO4NIZgScol1Qmhbang2WsT9T82dzSnHQ5zKpee4WX9PSGzDOnKX8+Wz/b9D5Xeuj9UWvuX9CUn/oU3I0BCg==",
   "success": true,
-  "projectFilePath": "G:\\Projects\\Monster Dungeon\\Entity\\Entity.csproj",
+  "projectFilePath": "G:\\Projects\\MonsterDungeon\\Entity\\Entity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vovaa\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.1.1\\microsoft.extensions.logging.abstractions.2.1.1.nupkg.sha512",
     "C:\\Users\\vovaa\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",

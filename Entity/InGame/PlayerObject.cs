@@ -25,7 +25,7 @@ namespace Entity.InGame
             BoxCollider.Height = 114;
             BoxCollider.Left = Width/3 + 11;
             BoxCollider.Bottom = 0;
-			BoxCollider.BackgroundColor = "rgba(0, 255, 0, 0.5)";
+			//BoxCollider.BackgroundColor = "rgba(0, 255, 0, 0.5)";
             BoxCollider.ID = "HitBox" + ID;
 
             BoxAttack.Display = "none";
@@ -33,7 +33,7 @@ namespace Entity.InGame
             BoxAttack.Height = BoxCollider.Height;
             BoxAttack.Left = BoxCollider.Left + BoxCollider.Width;
             BoxAttack.Bottom = BoxCollider.Bottom;
-			BoxAttack.BackgroundColor = "rgba(0, 0, 255, 0.4)";
+			//BoxAttack.BackgroundColor = "rgba(0, 0, 255, 0.4)";
 
 			BoxAttack.ID = "BoxAttack" + ID;
 			//-----------------------------------------------------------------------------//

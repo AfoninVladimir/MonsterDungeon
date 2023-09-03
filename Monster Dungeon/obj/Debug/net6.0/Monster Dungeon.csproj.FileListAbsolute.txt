@@ -92,3 +92,97 @@ G:\Projects\Monster Dungeon\Monster Dungeon\bin\Debug\net6.0\runtimes\unix\lib\n
 G:\Projects\Monster Dungeon\Monster Dungeon\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
 G:\Projects\Monster Dungeon\Monster Dungeon\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 G:\Projects\Monster Dungeon\Monster Dungeon\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+G:\Projects\MonsterDungeon\Monster Dungeon\bin\Debug\net6.0\appsettings.Development.json
+G:\Projects\MonsterDungeon\Monster Dungeon\bin\Debug\net6.0\appsettings.json
+G:\Projects\MonsterDungeon\Monster Dungeon\bin\Debug\net6.0\Monster Dungeon.staticwebassets.runtime.json
+G:\Projects\MonsterDungeon\Monster Dungeon\bin\Debug\net6.0\Monster Dungeon.exe
+G:\Projects\MonsterDungeon\Monster Dungeon\bin\Debug\net6.0\Monster Dungeon.deps.json
+G:\Projects\MonsterDungeon\Monster Dungeon\bin\Debug\net6.0\Monster Dungeon.runtimeconfig.json
+G:\Projects\MonsterDungeon\Monster Dungeon\bin\Debug\net6.0\Monster Dungeon.dll
+G:\Projects\MonsterDungeon\Monster Dungeon\bin\Debug\net6.0\Monster Dungeon.pdb
+G:\Projects\MonsterDungeon\Monster Dungeon\bin\Debug\net6.0\Azure.Core.dll
+G:\Projects\MonsterDungeon\Monster Dungeon\bin\Debug\net6.0\Azure.Identity.dll
+G:\Projects\MonsterDungeon\Monster Dungeon\bin\Debug\net6.0\Humanizer.dll
+G:\Projects\MonsterDungeon\Monster Dungeon\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Projects\MonsterDungeon\Monster Dungeon\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+G:\Projects\MonsterDungeon\Monster Dungeon\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+G:\Projects\MonsterDungeon\Monster Dungeon\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Projects\MonsterDungeon\Monster Dungeon\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\Projects\MonsterDungeon\Monster Dungeon\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Projects\MonsterDungeon\Monster Dungeon\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Projects\MonsterDungeon\Monster Dungeon\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+G:\Projects\MonsterDungeon\Monster Dungeon\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+G:\Projects\MonsterDungeon\Monster Dungeon\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Projects\MonsterDungeon\Monster Dungeon\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+G:\Projects\MonsterDungeon\Monster Dungeon\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Projects\MonsterDungeon\Monster Dungeon\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+G:\Projects\MonsterDungeon\Monster Dungeon\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+G:\Projects\MonsterDungeon\Monster Dungeon\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Projects\MonsterDungeon\Monster Dungeon\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+G:\Projects\MonsterDungeon\Monster Dungeon\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+G:\Projects\MonsterDungeon\Monster Dungeon\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+G:\Projects\MonsterDungeon\Monster Dungeon\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\Projects\MonsterDungeon\Monster Dungeon\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+G:\Projects\MonsterDungeon\Monster Dungeon\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Projects\MonsterDungeon\Monster Dungeon\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+G:\Projects\MonsterDungeon\Monster Dungeon\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+G:\Projects\MonsterDungeon\Monster Dungeon\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Projects\MonsterDungeon\Monster Dungeon\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+G:\Projects\MonsterDungeon\Monster Dungeon\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+G:\Projects\MonsterDungeon\Monster Dungeon\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\Projects\MonsterDungeon\Monster Dungeon\bin\Debug\net6.0\Mono.TextTemplating.dll
+G:\Projects\MonsterDungeon\Monster Dungeon\bin\Debug\net6.0\Quartz.dll
+G:\Projects\MonsterDungeon\Monster Dungeon\bin\Debug\net6.0\System.CodeDom.dll
+G:\Projects\MonsterDungeon\Monster Dungeon\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+G:\Projects\MonsterDungeon\Monster Dungeon\bin\Debug\net6.0\System.Drawing.Common.dll
+G:\Projects\MonsterDungeon\Monster Dungeon\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+G:\Projects\MonsterDungeon\Monster Dungeon\bin\Debug\net6.0\System.Memory.Data.dll
+G:\Projects\MonsterDungeon\Monster Dungeon\bin\Debug\net6.0\System.Runtime.Caching.dll
+G:\Projects\MonsterDungeon\Monster Dungeon\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\Projects\MonsterDungeon\Monster Dungeon\bin\Debug\net6.0\System.Security.Permissions.dll
+G:\Projects\MonsterDungeon\Monster Dungeon\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+G:\Projects\MonsterDungeon\Monster Dungeon\bin\Debug\net6.0\System.Text.Json.dll
+G:\Projects\MonsterDungeon\Monster Dungeon\bin\Debug\net6.0\System.Windows.Extensions.dll
+G:\Projects\MonsterDungeon\Monster Dungeon\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Projects\MonsterDungeon\Monster Dungeon\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Projects\MonsterDungeon\Monster Dungeon\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Projects\MonsterDungeon\Monster Dungeon\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Projects\MonsterDungeon\Monster Dungeon\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Projects\MonsterDungeon\Monster Dungeon\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Projects\MonsterDungeon\Monster Dungeon\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\Projects\MonsterDungeon\Monster Dungeon\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+G:\Projects\MonsterDungeon\Monster Dungeon\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+G:\Projects\MonsterDungeon\Monster Dungeon\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\Projects\MonsterDungeon\Monster Dungeon\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\Projects\MonsterDungeon\Monster Dungeon\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+G:\Projects\MonsterDungeon\Monster Dungeon\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+G:\Projects\MonsterDungeon\Monster Dungeon\bin\Debug\net6.0\BL.dll
+G:\Projects\MonsterDungeon\Monster Dungeon\bin\Debug\net6.0\DAL.dll
+G:\Projects\MonsterDungeon\Monster Dungeon\bin\Debug\net6.0\Entity.dll
+G:\Projects\MonsterDungeon\Monster Dungeon\bin\Debug\net6.0\BL.pdb
+G:\Projects\MonsterDungeon\Monster Dungeon\bin\Debug\net6.0\Entity.pdb
+G:\Projects\MonsterDungeon\Monster Dungeon\bin\Debug\net6.0\DAL.pdb
+G:\Projects\MonsterDungeon\Monster Dungeon\obj\Debug\net6.0\Monster Dungeon.csproj.AssemblyReference.cache
+G:\Projects\MonsterDungeon\Monster Dungeon\obj\Debug\net6.0\Monster Dungeon.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\MonsterDungeon\Monster Dungeon\obj\Debug\net6.0\Monster Dungeon.AssemblyInfoInputs.cache
+G:\Projects\MonsterDungeon\Monster Dungeon\obj\Debug\net6.0\Monster Dungeon.AssemblyInfo.cs
+G:\Projects\MonsterDungeon\Monster Dungeon\obj\Debug\net6.0\Monster Dungeon.csproj.CoreCompileInputs.cache
+G:\Projects\MonsterDungeon\Monster Dungeon\obj\Debug\net6.0\Monster Dungeon.MvcApplicationPartsAssemblyInfo.cache
+G:\Projects\MonsterDungeon\Monster Dungeon\obj\Debug\net6.0\Monster Dungeon.RazorAssemblyInfo.cache
+G:\Projects\MonsterDungeon\Monster Dungeon\obj\Debug\net6.0\Monster Dungeon.RazorAssemblyInfo.cs
+G:\Projects\MonsterDungeon\Monster Dungeon\obj\Debug\net6.0\staticwebassets\msbuild.Monster Dungeon.Microsoft.AspNetCore.StaticWebAssets.props
+G:\Projects\MonsterDungeon\Monster Dungeon\obj\Debug\net6.0\staticwebassets\msbuild.build.Monster Dungeon.props
+G:\Projects\MonsterDungeon\Monster Dungeon\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Monster Dungeon.props
+G:\Projects\MonsterDungeon\Monster Dungeon\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Monster Dungeon.props
+G:\Projects\MonsterDungeon\Monster Dungeon\obj\Debug\net6.0\staticwebassets.pack.json
+G:\Projects\MonsterDungeon\Monster Dungeon\obj\Debug\net6.0\staticwebassets.build.json
+G:\Projects\MonsterDungeon\Monster Dungeon\obj\Debug\net6.0\staticwebassets.development.json
+G:\Projects\MonsterDungeon\Monster Dungeon\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+G:\Projects\MonsterDungeon\Monster Dungeon\obj\Debug\net6.0\scopedcss\bundle\Monster Dungeon.styles.css
+G:\Projects\MonsterDungeon\Monster Dungeon\obj\Debug\net6.0\scopedcss\projectbundle\Monster Dungeon.bundle.scp.css
+G:\Projects\MonsterDungeon\Monster Dungeon\obj\Debug\net6.0\Monster Dungeon.csproj.CopyComplete
+G:\Projects\MonsterDungeon\Monster Dungeon\obj\Debug\net6.0\Monster Dungeon.dll
+G:\Projects\MonsterDungeon\Monster Dungeon\obj\Debug\net6.0\refint\Monster Dungeon.dll
+G:\Projects\MonsterDungeon\Monster Dungeon\obj\Debug\net6.0\Monster Dungeon.pdb
+G:\Projects\MonsterDungeon\Monster Dungeon\obj\Debug\net6.0\Monster Dungeon.genruntimeconfig.cache
+G:\Projects\MonsterDungeon\Monster Dungeon\obj\Debug\net6.0\ref\Monster Dungeon.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HMdoo/NqK6ACGwTY7/urK4Uq/CuhmRwFHyfVue1oxGbObqM7BIQa97AdJKibUvez7DuFC4LAoAINo6CTpY8jrQ==",
+  "dgSpecHash": "nm62dSfEaI0/jFCfB3wgAOEjyUgyIFTum/5H0yQZPKdTGNOBKxGggak8WQWPhXsUEtgw2rStekNMPXIPT6sXKA==",
   "success": true,
-  "projectFilePath": "G:\\Projects\\Monster Dungeon\\Monster Dungeon\\Monster Dungeon.csproj",
+  "projectFilePath": "G:\\Projects\\MonsterDungeon\\Monster Dungeon\\Monster Dungeon.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vovaa\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\vovaa\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

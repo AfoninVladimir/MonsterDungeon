@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "W43FK5ZZw1Pz6qHZz+COIKiig1U9yVpIWD1RuQODnFcC1F09n7U7YuxrRPYJbtCXslrSL98Km5voUYNg5vdLAg==",
+  "dgSpecHash": "V3DmDPS5gbRHZEVLKSzazp8kvzx/oV+h36i3AxpMWe12WKSHvWubnoIQ9Jag5D5GoaTAGhHk1g0Y1rymAj0vmg==",
   "success": true,
-  "projectFilePath": "G:\\Projects\\Monster Dungeon\\DAL\\DAL.csproj",
+  "projectFilePath": "G:\\Projects\\MonsterDungeon\\DAL\\DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vovaa\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\vovaa\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

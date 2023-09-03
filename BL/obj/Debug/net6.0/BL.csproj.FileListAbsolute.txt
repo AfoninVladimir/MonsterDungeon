@@ -17,3 +17,22 @@ G:\Projects\Monster Dungeon\BL\bin\Debug\net6.0\Entity.dll
 G:\Projects\Monster Dungeon\BL\bin\Debug\net6.0\DAL.pdb
 G:\Projects\Monster Dungeon\BL\bin\Debug\net6.0\Entity.pdb
 G:\Projects\Monster Dungeon\BL\obj\Debug\net6.0\BL.csproj.CopyComplete
+G:\Projects\MonsterDungeon\BL\bin\Debug\net6.0\BL.deps.json
+G:\Projects\MonsterDungeon\BL\bin\Debug\net6.0\BL.runtimeconfig.json
+G:\Projects\MonsterDungeon\BL\bin\Debug\net6.0\BL.dll
+G:\Projects\MonsterDungeon\BL\bin\Debug\net6.0\BL.pdb
+G:\Projects\MonsterDungeon\BL\bin\Debug\net6.0\DAL.dll
+G:\Projects\MonsterDungeon\BL\bin\Debug\net6.0\Entity.dll
+G:\Projects\MonsterDungeon\BL\bin\Debug\net6.0\DAL.pdb
+G:\Projects\MonsterDungeon\BL\bin\Debug\net6.0\Entity.pdb
+G:\Projects\MonsterDungeon\BL\obj\Debug\net6.0\BL.csproj.AssemblyReference.cache
+G:\Projects\MonsterDungeon\BL\obj\Debug\net6.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\MonsterDungeon\BL\obj\Debug\net6.0\BL.AssemblyInfoInputs.cache
+G:\Projects\MonsterDungeon\BL\obj\Debug\net6.0\BL.AssemblyInfo.cs
+G:\Projects\MonsterDungeon\BL\obj\Debug\net6.0\BL.csproj.CoreCompileInputs.cache
+G:\Projects\MonsterDungeon\BL\obj\Debug\net6.0\BL.csproj.CopyComplete
+G:\Projects\MonsterDungeon\BL\obj\Debug\net6.0\BL.dll
+G:\Projects\MonsterDungeon\BL\obj\Debug\net6.0\refint\BL.dll
+G:\Projects\MonsterDungeon\BL\obj\Debug\net6.0\BL.pdb
+G:\Projects\MonsterDungeon\BL\obj\Debug\net6.0\BL.genruntimeconfig.cache
+G:\Projects\MonsterDungeon\BL\obj\Debug\net6.0\ref\BL.dll
