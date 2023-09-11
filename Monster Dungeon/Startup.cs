@@ -38,13 +38,12 @@ namespace Monster_Dungeon
                 app.UseHsts();
             }
             app.UseHttpsRedirection();
-
+            app.UseStaticFiles();
 
             app.UseRouting();
 
             app.UseAuthentication();
             app.UseAuthorization();
-            app.UseStaticFiles();
 
             app.UseEndpoints(endpoints =>
             {
